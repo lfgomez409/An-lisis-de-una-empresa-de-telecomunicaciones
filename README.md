@@ -1,4 +1,5 @@
-##Introducción: 
+Introducción: 
+
 Eres analista de datos en ConnectaTel, una empresa de telecomunicaciones con operaciones en México y Colombia.
 
 Tu equipo debe entregar un reporte para entender cómo los clientes usan realmente los servicios móviles (llamadas y mensajes).
